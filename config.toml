@@ -18,7 +18,7 @@ defaultContentLanguage = "en-us"
 title = "robertovens.com"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "robertovens-com"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-105312124-1"
 paginate = 7
 canonifyurls = true
 
