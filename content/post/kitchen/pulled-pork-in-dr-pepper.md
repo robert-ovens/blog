@@ -11,7 +11,16 @@ tags:
   - spicy
 ---
 
-This one's for you Carol!
+This one's for you Carol! Pulled pork to go with, well anything. Buns, coleslaw, corn chips. It's all yummy.
+
+<!--more-->
+ You can get the Chipotle peppers in most fancy delis' these days. Some Coles have them as well. If you can't get them substitue with;
+
+* 2 tbs tomato paste
+* 1 tsp cayenne pepper
+* 2 tbs red wine vinegar 
+
+This is not the same. But it will add heat, tartness and a bit of depth thanks to the tomato paste.
 
 ## Ingredients
 
