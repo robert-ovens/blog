@@ -29,4 +29,4 @@ I've used this recipe a number of times now. I note that the baking powder gives
   - Turn every 15-20 minutes, until they are browned and crispy. Total cooking time will be about 1 hour.
   - Toss in a glaze of your choice.
 
-Serve with a salad. And some damp towels for your fingers. These puppies are messy. Goes with [Ginger Eschallot Honey Glaze]({{< relref "posts/ginger-eschallot-honey-glaze.md" >}}).
+Serve with a salad. And some damp towels for your fingers. These puppies are messy. Goes with [Ginger Eschallot Honey Glaze]({{< relref "post/kitchen/ginger-eschallot-honey-glaze.md" >}}).
