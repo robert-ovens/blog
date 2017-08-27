@@ -1,0 +1,24 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: rovens/circleci-hugo-aws:1.1.1
+    working_directory: ~/project
+    steps:
+      - checkout
+      - run:
+          name: Get Theme
+          command: git clone https://github.com/kakawait/hugo-tranquilpeak-theme.git themes/hugo-tranquilpeak-theme
+      - run:
+          name: Generate site
+          command: hugo
+      #- run:
+      #    name: "Run Hugo"
+      #    command: HUGO_ENV=production hugo -v -s site/
+      #- run:
+      #    name: "Recipes"
+      #    command: htmlproofer site/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
+      - deploy:
+          name: Deploy to S3 
+          command: |
+            aws s3 sync public s3://robertovens.com/ --delete
