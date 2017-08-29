@@ -15,7 +15,7 @@ This recipe is more or less the same recipe you will find in that astoundingly a
 
 Spirit House the restaurant is so lovely, a large covered deck surrounding a lilly covered pond. The combination of a banquet of Thai dishes, purfumed frangipani trees and hot, humid evening summer nights is positively intoxicating. 
 
-A word on coconut milk. Most coconut milk
+A word on canned coconut milk. Most coconut is pretty bad quality. When you shop for cans of coconut milk read the label. Avoid cans that contain any kind of thickening agent. The higher the coconut percentage, the better.
 
 <!--more-->
 
