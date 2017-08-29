@@ -11,7 +11,7 @@ tags:
   - chicken
 ---
 
-This recipe is more or less the same recipe you will find in that astoundingly awesome Spirit House by Helene and whatsit, from the restaurant of the same name in Eumundi, Queensland. This book was my introduction to Thai cooking. I've since acquired more sophisticated Thai recipe books from chefs such as David Thompson. But I come back to this one again and again, because the recipes are simple and always delicious. 
+This recipe is more or less the same recipe you will find in that astoundingly awesome [Spirit House by Helene Brierty and Annette Fear](https://www.booktopia.com.au/spirit-house-thai-cooking-helen-brierty/prod9781741101454.html?source=pla&gclid=Cj0KCQjwoZTNBRCWARIsAOMZHmEVT6bX9ubawszV1qgAZO520vhRzkwF1iV66SEbBeyiUw_-NkwZlBkaAkhDEALw_wcB), from the restaurant of the same name in Eumundi, Queensland. This book was my introduction to Thai cooking. I've since acquired more sophisticated Thai recipe books from chefs such as David Thompson. But I come back to this one again and again, because the recipes are simple and always delicious. 
 
 Spirit House the restaurant is so lovely, a large covered deck surrounding a lilly covered pond. The combination of a banquet of Thai dishes, purfumed frangipani trees and hot, humid evening summer nights is positively intoxicating. 
 
