@@ -9,5 +9,4 @@ ingredients:
   - 1 tsp salt
 method:
   - Place salt in bowl and watch
-notes:
-----
+---
