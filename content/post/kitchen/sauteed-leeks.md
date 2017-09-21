@@ -10,4 +10,4 @@ ingredients:
 method:
   - Place salt in bowl and watch
 notes:
----
+----
