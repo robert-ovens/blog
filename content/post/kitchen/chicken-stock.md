@@ -9,6 +9,10 @@ tags:
   - essentials
 ---
 
+Always have some in the freezer.
+
+<!--more-->
+
 ## Ingredients
 
 * 8 kg chicken wings, frames, necks - whatever you can get hold of.
