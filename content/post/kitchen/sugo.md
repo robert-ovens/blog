@@ -7,6 +7,7 @@ categories:
   - sauces
 tags: 
   - italian
+  - essentials
 ---
 
 A basic tomato sauce recipe that can be used for pizza, pasta or a base for a jus or other sauce. I usually make double or triple the quantity below and freeze whatever is leftover.

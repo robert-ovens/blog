@@ -5,6 +5,8 @@ draft: false
 categories:
   - food
   - sauces
+tags:
+  - essentials
 ---
 
 Make this and you will never buy mayonnaise again. It takes less than five minutes. and you can adjust it to suit the dish that it will accompany. Roasted potatoes, Dutch style? No problem and a teaspoon of extra sugar! Cooking something spanish which needs some punch? Mash some roasted garlic and mix it in. Fish and chips? Add a tablespoon each of chopped capers, gerkin and flat leaf parsley and you have tartare sauce.
