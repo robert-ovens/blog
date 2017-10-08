@@ -41,6 +41,8 @@ Crunchy, tasty vegetables. As a main with rice or as a side dish.
 
 1. Add bowl 2 of vegetables, followed by the sauce and sugar. Toss until the vegetables are almost done to your liking.
 
-1. Add gai lan leaves, toss just until wilted. Remove from heat and serve with jasmine rice. Enjoy!
+1. Add gai lan leaves, toss just until wilted. Remove from heat and serve with jasmine rice.
+
+Source: https://hot-thai-kitchen.com/mixed-veg-stir-fry/
 
 
