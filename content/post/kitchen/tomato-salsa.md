@@ -10,6 +10,10 @@ tags:
   - vegetarian
 ---
 
+Pretty, vibrant and fresh.
+
+<!--more-->
+
 ## Ingredients
 
 * 2 roma tomatoes
