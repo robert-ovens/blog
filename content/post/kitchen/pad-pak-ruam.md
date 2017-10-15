@@ -32,15 +32,10 @@ Crunchy, tasty vegetables. As a main with rice or as a side dish.
 ## Method
 
 1. In a small bowl, combine oyster sauce, soy sauce, Golden Mountain Sauce, sugar and water.
-
 1. Organize your vegetables in order they are added to the pan: Bowl 1: Carrots and cauliflower together. Bowl 2: Cabbage, snap peas, gai lan stems, and mushrooms. Bowl 3: Gai lan leaves.
-
 1. In a wok or a large saute pan, turn the heat to medium, add a little vegetable oil, garlic and chilies and saute until small bits of garlic starts to turn golden.
-
 1. Add carrots and cauliflower; toss over medium heat for about 1 minute, adding a splash of water if the garlic starts to brown too quickly.
-
 1. Add bowl 2 of vegetables, followed by the sauce and sugar. Toss until the vegetables are almost done to your liking.
-
 1. Add gai lan leaves, toss just until wilted. Remove from heat and serve with jasmine rice.
 
 Source: https://hot-thai-kitchen.com/mixed-veg-stir-fry/
