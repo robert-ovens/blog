@@ -19,7 +19,7 @@ Always have some in the freezer.
 * 2 brown onion
 * 2 carrot
 * 2 stems celery
-* 1 Bouquet garni   
+* 1 Bouquet garni
 * 1 tsp whole pepper
 
 ## Method
@@ -36,7 +36,3 @@ Always have some in the freezer.
 1. Slowly bring to a simmer, removing any scum that rises to the surface as you go.
 1. Add the remaining ingredients.
 1. Simmer for about 6 hours. **Do not let it boil.**
-
-
-
-

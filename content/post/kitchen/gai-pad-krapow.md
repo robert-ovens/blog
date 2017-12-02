@@ -2,6 +2,11 @@
 title: "Gai Pad Krapow"
 date: 2017-11-08T21:01:14Z
 draft: true
+categories:
+  - food
+  - mains
+tags:
+  - thai
 ---
 
 Quick and easy stir fry.

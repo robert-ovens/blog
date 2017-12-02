@@ -5,7 +5,6 @@ draft: true
 categories:
   - food
   - meat
-
 ---
 
 So I finally got my indirect smoker together. I researched and watched countless youtube videos, a season of BBQ Pitmasters and wrestled with the various BBQ devices that are considered esstential. After all of this I decided to go as 'ghetto' as possible and re-use or fashion from what I had around me.
@@ -45,13 +44,11 @@ Thanks Terry :-)
 
 There was a small modification I was required to perform on the Webber BBQ. The one I picked did not have a grill with a hinge to allow access to the lower section where you will put the coals. So I cut a chord through the grill so I could add coal or wood without having to remove the entire grill, which would suck if you had food already on it.
 
-Once that was done. 
-
-
+Once that was done.
 
 ## Ingredients
 
-  - 2 racks of lamb ribs
+- 2 racks of lamb ribs
   - Dijon mustard
   - Dry rub
   - BBQ Sauce
@@ -60,7 +57,7 @@ Once that was done.
 
 ## Method
 
-  - Get your BBQ set up and aim for 120c to 130c. Low and slow.
+- Get your BBQ set up and aim for 120c to 130c. Low and slow.
   - Lamb ribs can be quite fatty so you may want to trim it. As the meat itself can be lean, leave enough that the meat is flavoured with the fat as it renders.
   - Smear the ribs with the mustard to bind the dry rub to the ribs.
   - Cover with the dry rub. The dry rub can be whatever you want. Based on salt and pepper, and then with whatever flavourings that makes sense for the dish you are cooking. I used powdered garlic, a bit of dried rosemary, some cayenne pepper for heat, and sweet paprika.
