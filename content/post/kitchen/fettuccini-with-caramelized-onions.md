@@ -5,7 +5,7 @@ draft: true
 ---
 
 When considering how much to pasta to serve per person, imagine the diameter of a ten cent piece as the diameter of the bunch of pasta.
-
+<!--more-->
 ## Ingredients
 
 * 2 red onions
