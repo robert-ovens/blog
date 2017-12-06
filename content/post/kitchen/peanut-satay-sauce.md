@@ -11,9 +11,9 @@ tags:
 
 ## Ingredients
 
-* One 13.5-ounce can of full-fat, unsweetened coconut milk
-* 2 ounces (approximately 1/4 cup) of Thai red (mom’s preference and mine too) or Massaman curry paste (milder but flavorful)
-* 3/4 cup unsweetened (natural) crunchy peanut butter 
+* One 400ml can of full-fat, unsweetened coconut milk
+* 2 tbsp of Thai red curry paste
+* 3/4 cup unsweetened (natural) crunchy peanut butter
 * 1/2 tbs salt
 * 3/4 cup sugar
 * 2 tablespoons coconut vinegar
