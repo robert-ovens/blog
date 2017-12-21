@@ -1,8 +1,9 @@
 ---
 title: "Christmas"
 date: 2017-12-21T07:40:16Z
-draft: true
+draft: false
 ---
+<!--more-->
 
 * [Baked Ham]({{< relref "post/kitchen/baked-ham.md" >}}).
 * Roast Chicken

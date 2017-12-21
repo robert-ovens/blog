@@ -9,6 +9,8 @@ tags:
   - pork
 ---
 
+<!--more-->
+
 ## Ingredients
 
 * 1/2 cup pure maple syrup

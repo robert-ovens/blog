@@ -9,6 +9,8 @@ tags:
   - fish
 ---
 
+<!--more-->
+
 ## Ingredients
 
 * 3/4 cup dry white wine
