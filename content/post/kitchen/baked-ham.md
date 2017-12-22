@@ -13,17 +13,17 @@ tags:
 
 ## Ingredients
 
-* 1/2 cup pure maple syrup
-* 1/2 cup brown sugar
-* 1/2 cup cola
-* 1 tablespoon brown or Dijon mustard
+* 1 cup apricot conserve
+* 1 cup brown sugar
+* 2 tablespoon Dijon mustard
+* 2 tsp ground pepper
 * 1/4 teaspoon ground ginger
-* 1/4 teaspoon ground cinnamon
 
 ## Method
 
-1. Place the ham, fat side up, on a rack in a foil-lined roasting pan; score fat and stud with cloves, if desired.
-1. Cook in a preheated 325 F oven for about 18 minutes per pound, until meat thermometer or instant-read thermometer, registers 148 F. If your ham is labeled "Ready to Cook," follow packaging directions.
-1. Combine maple syrup, brown sugar, cola, mustard, ginger, and cinnamon in saucepan; bring to a simmer and continue cooking over low heat for about 2 minutes.
-1. About 20 minutes before the ham is done, spoon about half of the glaze over top of ham, then about 10 minutes before done, spread remaining glaze over ham.
-
+1. Preheat oven to 150°C.
+1. Place ham in roasting pan, cut side down. With tip of sharp knife, make long cuts from top of ham to bottom, cutting through tough skin and fat; make perpendicular cuts to form diamonds.
+1. Cover with foil and bake 11/2 hrs.
+1. In medium bowl, whisk sugar, jam, mustard and pepper. Transfer 1 cup glaze to separate bowl; cover and refrigerate. 
+1. Remove foil from ham. Brush some of remaining glaze all over ham. Bake, uncovered, another 1 to 11/2 hours or until glaze is dark brown and internal temperature of ham has reached 170°c, brushing with glaze every 1/2 hour.
+1. Allow ham to rest 20 minutes before carving. Serve with reserved glaze.
