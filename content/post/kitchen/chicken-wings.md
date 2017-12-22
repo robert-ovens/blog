@@ -2,6 +2,11 @@
 title: "Chicken Wings"
 date: 2017-09-27T14:27:15+10:00
 draft: false
+categories:
+  - food
+  - mains
+tags:
+  - chicken
 ---
 
 One of my favorite chicken recipes.
@@ -18,7 +23,7 @@ One of my favorite chicken recipes.
 * 2 tbsp Worcestershire sauce
 * 2 tbsp balsamic vinegar
 * 1/2 tsp cayenne pepper
-* 1 tsp sweek praprika 
+* 1 tsp sweek praprika
 
 ## Method
 
@@ -27,4 +32,3 @@ One of my favorite chicken recipes.
 1. Leave overnight or an hour. The more the better.
 1. Bake at 160 C for an hour. Turn and baste them every 20 minutes.
 1. Increase heat to 200 C and give them another 10 minutes.
-
