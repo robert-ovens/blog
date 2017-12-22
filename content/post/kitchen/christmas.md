@@ -8,7 +8,7 @@ draft: false
 * [Baked Ham]({{< relref "post/kitchen/baked-ham.md" >}}).
 * Roast Chicken
 * Sous Vide Salmon with [Lemon & Dill Sauce]({{< relref "post/kitchen/lemon-and-dill-sauce.md" >}})
-* [Tomato, Mozzarella and Basil salad]({{< refref "post/kitchen/tomato-torn-mozzarella-basil-salad.md" >}}).
+* [Tomato, Mozzarella and Basil salad]({{< relref "post/kitchen/tomato-torn-mozzarella-basil-salad.md" >}}).
 * Roasted jacket potatoes
 * [Baked zuccini]({{< relref "post/kitchen/lbaked-zucchini-parmesan-crumb.md" >}})
 * Tiramisu
