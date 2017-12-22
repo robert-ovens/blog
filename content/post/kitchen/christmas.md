@@ -10,5 +10,5 @@ draft: false
 * Sous Vide Salmon with [Lemon & Dill Sauce]({{< relref "post/kitchen/lemon-and-dill-sauce.md" >}})
 * [Tomato, Mozzarella and Basil salad]({{< relref "post/kitchen/tomato-torn-mozzarella-basil-salad.md" >}}).
 * Roasted jacket potatoes
-* [Baked zuccini]({{< relref "post/kitchen/lbaked-zucchini-parmesan-crumb.md" >}})
+* [Baked zuccini]({{< relref "post/kitchen/baked-zucchini-parmesan-crumb.md" >}})
 * Tiramisu
