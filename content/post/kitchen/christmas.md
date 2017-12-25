@@ -12,3 +12,24 @@ draft: false
 * Roasted jacket potatoes
 * [Baked zuccini]({{< relref "post/kitchen/baked-zucchini-parmesan-crumb.md" >}})
 * Tiramisu
+
+### 3 Hours Before
+
+* Preheat oven to 220C
+* Prepare zucchini
+* Prepare sous vide
+
+### 2.5 Hours Before
+
+* Roast jacket potatoes
+* lemon and dill sauce
+
+### 2 Hours Before
+
+* Roast
+* Salmon
+
+### 1 Hour Before
+
+* Zucchini
+* Totatoes
