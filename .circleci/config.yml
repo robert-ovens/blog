@@ -13,7 +13,7 @@ jobs:
     docker:
       - image: google/cloud-sdk
     steps:
-      -run:
+      - run:
         - command: |
           echo $GCLOUD_SERVICE_KEY | gcloud auth activate-service-account --key-file=-
           gcloud --quiet config set project ${GOOGLE_PROJECT_ID}
