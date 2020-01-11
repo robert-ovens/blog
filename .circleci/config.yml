@@ -9,7 +9,7 @@ jobs:
       - checkout # check out the code in the project directory
       - run: echo "hello world" # run the `echo` command
       - run: 'HUGO_ENV=production hugo -v'
-      - persist-to-workspace:
+      - persist_to_workspace:
           root: /
           paths:
             - public
@@ -17,7 +17,7 @@ jobs:
     docker:
       - image: google/cloud-sdk
     steps:
-      - attach-workspace:
+      - attach_workspace:
           at: /public
       - run: |
           echo $GCLOUD_SERVICE_KEY | gcloud auth activate-service-account --key-file=-
@@ -25,6 +25,7 @@ jobs:
           gcloud --quiet config set compute/zone ${GOOGLE_COMPUTE_ZONE}
 workflows:
   version: 2
+
   btd:
     jobs:
       - build
