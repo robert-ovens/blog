@@ -10,13 +10,13 @@ jobs:
       - persist_to_workspace:
           root: ~/
           paths:
-            - public
+            - project/public
   deploy:
     docker:
       - image: google/cloud-sdk
     steps:
       - attach_workspace:
-          at: ~/public
+          at: ~/project/public
       - run: |
           echo $GCLOUD_SERVICE_KEY | gcloud auth activate-service-account --key-file=-
           gcloud --quiet config set project ${GOOGLE_PROJECT_ID}
