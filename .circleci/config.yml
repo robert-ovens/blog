@@ -9,12 +9,25 @@ jobs:
       - checkout # check out the code in the project directory
       - run: echo "hello world" # run the `echo` command
       - run: 'HUGO_ENV=production hugo -v'
+      - persist-to-workspace:
+          root: /
+          paths:
+            - public
   deploy:
     docker:
       - image: google/cloud-sdk
     steps:
-      - run:
-        command: |
+      - attach-workspace:
+          at: /public
+      - run: |
           echo $GCLOUD_SERVICE_KEY | gcloud auth activate-service-account --key-file=-
           gcloud --quiet config set project ${GOOGLE_PROJECT_ID}
           gcloud --quiet config set compute/zone ${GOOGLE_COMPUTE_ZONE}
+workflows:
+  version: 2
+  btd:
+    jobs:
+      - build
+      - deploy
+          requires:
+            - build
