@@ -1,8 +1,11 @@
 version: 2.1
 jobs:
   build:
+    environment:
+      HUGO_BUILD_DIR: ~/hugo/public
     docker:
       - image: cibuilds/hugo:latest # the primary container, where your job's commands are run
     steps:
       - checkout # check out the code in the project directory
       - run: echo "hello world" # run the `echo` command
+      - run: 'git submodule sync && git submodule update --init'
