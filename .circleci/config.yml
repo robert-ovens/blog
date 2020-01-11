@@ -8,7 +8,7 @@ jobs:
       - run: echo "hello world" # run the `echo` command
       - run: 'HUGO_ENV=production hugo -v'
       - persist_to_workspace:
-          root: root
+          root: /tmp
           paths:
             - public
   deploy:
@@ -16,7 +16,7 @@ jobs:
       - image: google/cloud-sdk
     steps:
       - attach_workspace:
-          at: root/public
+          at: /tmp/public
       - run: |
           echo $GCLOUD_SERVICE_KEY | gcloud auth activate-service-account --key-file=-
           gcloud --quiet config set project ${GOOGLE_PROJECT_ID}
@@ -24,7 +24,7 @@ jobs:
 workflows:
   version: 2
 
-  btd:
+  blog_ci:
     jobs:
       - build
       - deploy:
