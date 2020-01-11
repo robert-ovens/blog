@@ -29,6 +29,6 @@ workflows:
   btd:
     jobs:
       - build
-      - deploy
+      - deploy:
           requires:
             - build
